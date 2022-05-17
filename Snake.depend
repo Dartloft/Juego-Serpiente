@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1652812986 source:d:\proyectos\carpeta tetris\snake\src\juego.cpp
+	"Juego.h"
+
+1652808326 d:\proyectos\carpeta tetris\snake\include\juego.h
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	"Serpiente.h"
+
+1652736639 source:d:\proyectos\carpeta tetris\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	<ctime>
+	"Juego.h"
+	"Serpiente.h"
+
+1652813078 d:\proyectos\carpeta tetris\snake\include\serpiente.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<stdlib.h>
+	<ctime>
+
+1652812945 source:d:\proyectos\carpeta tetris\snake\src\serpiente.cpp
+	"Serpiente.h"
+
